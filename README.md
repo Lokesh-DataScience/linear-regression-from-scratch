@@ -4,17 +4,17 @@ This project demonstrates the implementation of **Linear Regression** from scrat
 
 ## Folder Structure
 
-linear_regression_project/
-├── data/
-│   └── generate_data.py       # Code to generate synthetic data
-├── models/
-│   └── linear_regression.py   # Linear regression implementation
-├── plots/                     # Directory to save plots
-├── main.py                    # Entry point to run the project
-├── requirements.txt           # Dependencies
-└── README.md                  # Project description
+linear_regression_project/<br>
+├── data/<br>
+│   └── generate_data.py       # Code to generate synthetic data<br>
+├── models/<br>
+│   └── linear_regression.py   # Linear regression implementation<br>
+├── plots/                     # Directory to save plots<br>
+├── main.py                    # Entry point to run the project<br>
+├── requirements.txt           # Dependencies<br>
+└── README.md                  # Project description<br>
 
- # Project description
+ # Project description<br>
  
 ## Features
 
