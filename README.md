@@ -33,7 +33,7 @@ linear_regression_project/<br>
 
 ## Installation
 
-##Clone this repository:
+## Clone this repository:
 
    ```bash
    git clone https://github.com/Lokesh-DataScience/linear-regression-from-scratch.git
